@@ -1,0 +1,3 @@
+O grupo propõe elaborar um sistema para um restaurante controlar os pedidos dos clientes e emissões de notas fiscais. O controle de pedido será feito por mesa disponível no restaurante e esses pedidos poderão ser manipulados no momento do fechamento da conta. Na prática será possível separar os pedidos de uma mesa por pessoa ou grupos de pessoas.
+A cada conta fechada o sistema atualizará o caixa do dia e emitirá uma nota fiscal com opção de inserir o CPF ou CNPJ do consumidor.
+Com o sistema será possível ter acesso a faturmanetos salvos anteriormente e gerar relatórios de faturamento diário e mensal.
